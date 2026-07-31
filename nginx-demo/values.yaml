@@ -21,7 +21,7 @@ buildDate: "31-Jul-2026"
 # Service
 
 service:
-  type: ClusterIP
+  type: LoadBalancer
   port: 80
 
 # Ingress
